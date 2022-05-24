@@ -1,0 +1,13 @@
+@import "bootstrap/scss/bootstrap";
+
+ul {
+  list-style-type: none;
+  li > a {
+    text-decoration:none;
+    color: black;
+  }
+}
+
+body {
+  margin-left: 50px;
+}
